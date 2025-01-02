@@ -1,2 +1,2 @@
 # cluster-analysis
-This project is related to cluster analysis, an unsupervised machine learning technique
+This GitHub repository contains a detailed project on hierarchical cluster analysis, exploring the relationships between academic performance, parental education, health, family background, social perspective, and their impact on student well-being. The analysis utilizes R for data preprocessing, visualization, and clustering, and employs various methodologies to derive meaningful insights.
